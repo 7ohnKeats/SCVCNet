@@ -1,5 +1,5 @@
 # SCVCNet
-SCVCNet   
+#SCVCNet: https://doi.org/10.48550/arXiv.2310.03749      
 #feature: feature of eeg data   
 #feature_extract: procedure of feature extract   
 #filter: eeg raw data with filter for fbmsnet   
