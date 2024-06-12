@@ -20,3 +20,12 @@
 #main_scvcnet: cross-task experiments with scvcnet   
 #main_svm: cross-task experiments with svm   
 #main_tsseffnet: cross-task experiments with tsseffnet   
+#
+#Package Version
+#python 3.9.7
+#torch 2.0.0
+#tensorflow 2.10.0
+#mne 1.6.1
+#numpy 1.26.2
+#scipy 1.11.4
+#scikit-learn 1.2.2
